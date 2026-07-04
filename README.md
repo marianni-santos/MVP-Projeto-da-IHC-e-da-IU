@@ -9,29 +9,6 @@ O objetivo do projeto é projetar e validar uma solução digital para facilitar
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-📁 documentos/
-│   ├── Relatório.pdf
-│   ├── Personas.pdf
-│   ├── Pesquisa.pdf
-│   ├── MoLIC.pdf
-│   ├── Wireframes.pdf
-│   ├── Protótipo.pdf
-│   └── Outros artefatos
-
-📁 figma/
-│   └── Arquivos (.fig) ou exportações
-
-📁 imagens/
-│   └── Imagens utilizadas na documentação
-
-README.md
-```
-
----
-
 ## 📑 Conteúdo
 
 O repositório contém os seguintes artefatos:
