@@ -31,7 +31,7 @@ O repositório contém os seguintes artefatos:
 https://www.figma.com/proto/QAqPKKJVnpMwXhZhqX6Enx/Untitled?node-id=75-1076&p=f&t=FsdOX6dxiq6WV9EF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=75%3A1076
 ```
 
-### Arquivo Editável (.fig)
+### Arquivo Editável
 
 > **https://www.figma.com/design/QAqPKKJVnpMwXhZhqX6Enx/Untitled?node-id=0-1&t=FsdOX6dxiq6WV9EF-1**
 
